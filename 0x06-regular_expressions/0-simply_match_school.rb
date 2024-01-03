@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/[S]\w*/
+puts ARGV[0].scan(/[S]\w*/).join
