@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/[S]\w+/
+/[S]\w*/
