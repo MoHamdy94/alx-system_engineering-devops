@@ -1,0 +1,5 @@
+Host web-01
+	Hostname 54.173.124.5
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/schoo
