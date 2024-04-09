@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 '''
     this module contains the function number_of_subscribers
